@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shashikanth16193
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 💞️ I’m looking to collaborate on any company that requires my skills 
 - 📫 How to reach me Gmail:shashikanth16193@gmail.com
 
 <!---
